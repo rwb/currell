@@ -9,10 +9,6 @@
 ### Currell Room 203
 
 <p align="center">
-<img src="IMG_0005.png" width="499px">
-</p>
-
-<p align="center">
 <img src="c203-1.png" width="500px">
 </p>
 
