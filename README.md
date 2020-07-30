@@ -81,7 +81,3 @@
 <p align="center">
 <img src="c107-6.png" width="500px">
 </p>
-
-<p align="center">
-<img src="c107-7.png" width="500px">
-</p>
