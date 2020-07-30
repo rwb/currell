@@ -45,3 +45,17 @@
 <p align="center">
 <img src="c204-5.png" width="500px">
 </p>
+
+### Second floor hall outside of classrooms
+
+<p align="center">
+<img src="c-upst-1.png" width="500px">
+</p>
+
+<p align="center">
+<img src="c-upst-2.png" width="500px">
+</p>
+
+<p align="center">
+<img src="c-upst-3.png" width="500px">
+</p>
